@@ -1,16 +1,14 @@
-### Hi there 👋
+# Archit Jain
+<h1 align='center'>Hi, I'm Archit Jain 👋</h1>
+<h3>A Programmer, Coder and Developer from India.</h3>
+<img align='right' width='400' alt='Coder' src='coder.gif'>
 
-<!--
-**ArchitJ6/ArchitJ6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=architj6&style=plastic&color=orange)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning - Various Coding Languages and Skills.
+- 👯 I’m looking to collaborate on various projects as an Intern.
+- 📫 How to reach me: https://forms.gle/xyYpoSnTyAKzf2nn9
+- My Some Repositories are currently Private but I will make them Public soon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align='center'> Connect with me:</h3>
+<img width='45' color='blue' src='linkedin.svg'>
