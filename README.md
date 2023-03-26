@@ -7,8 +7,8 @@
 
 - 🌱 I’m currently learning - Various Coding Languages and Skills.
 - 👯 I’m looking to collaborate on various projects as an Intern.
-- 📫 How to reach me: https://forms.gle/xyYpoSnTyAKzf2nn9
-- My Some Repositories are currently Private but I will make them Public soon.
+- 📫 Anyone can reach me using the Google Form given below.
+- :page_with_curl: My Some Repositories are currently Private but I will make them Public soon.
 
 <h3 align='center'> Connect with me:</h3>
-<img width='45' color='blue' src='linkedin.svg'>
+<p align='center'>https://forms.gle/xyYpoSnTyAKzf2nn9</p>
