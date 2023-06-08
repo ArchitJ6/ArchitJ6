@@ -23,9 +23,10 @@ Let's shape the future together, one commit at a time! 🚀
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/architjain6)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Archit_Jain_6)
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram&logoColor=white)](http://t.me/archit_j)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://github.com/ArchitJ6)
 
 ## 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<!-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -37,7 +38,18 @@ Let's shape the future together, one commit at a time! 🚀
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white) -->
+### Languages 🛠 
+[![My Programming Languages](https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,kotlin,sass)](https://github.com/ArchitJ6)
+
+### Development Frameworks and Libraries
+[![My Development](https://skillicons.dev/icons?i=git,androidstudio,gradle,nextjs,react,redux,mui,nodejs,bootstrap,tailwindcss,flask,django,jquery)](https://github.com/ArchitJ6)
+
+### Databases and Cloud Platforms 🛠 
+[![My Databases and Cloud](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,firebase,vercel,github,netlify,googlecloud,heroku,codepen,replit)](https://github.com/ArchitJ6)
+
+### IDEs and Tools
+[![My IDEs and Tools](https://skillicons.dev/icons?i=androidstudio,idea,vscode,figma,postman)](https://github.com/ArchitJ6)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=architj6&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&border_radius=10)<br/>
