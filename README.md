@@ -15,7 +15,7 @@ Let's shape the future together, one commit at a time! 🚀
 ![](https://komarev.com/ghpvc/?username=architj6&style=plastic&color=orange)
 
 ## 🌐 Connect with me:
-[![website](https://img.shields.io/badge/My%20Website-%231769ff.svg?logo=minutemailer&logoColor=white)](https://architjain.xyz/)
+[![website](https://img.shields.io/badge/My%20Website-%231769ff.svg?logo=minutemailer&logoColor=white)](https://architj6.xyz/)
 [![Gmail](https://img.shields.io/badge/Mail%20Me-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:architjain1417@gmail.com)
 [![google-form](https://img.shields.io/badge/Contact%20Me-%2330B980.svg?logo=minutemailer&logoColor=white)](https://forms.gle/xyYpoSnTyAKzf2nn9)
 
