@@ -40,7 +40,7 @@ Let's shape the future together, one commit at a time! 🚀
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white) -->
 ### Languages 🛠 
-[![My Programming Languages](https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,kotlin,sass)](https://github.com/ArchitJ6)
+[![My Programming Languages](https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,typescript,kotlin,sass)](https://github.com/ArchitJ6)
 
 ### Development Frameworks and Libraries
 [![My Development](https://skillicons.dev/icons?i=git,androidstudio,gradle,nextjs,react,redux,mui,nodejs,bootstrap,tailwindcss,flask,django,jquery)](https://github.com/ArchitJ6)
