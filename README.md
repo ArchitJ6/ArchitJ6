@@ -40,13 +40,13 @@ Let's shape the future together, one commit at a time! 🚀
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white) -->
 ### Languages 🛠 
-[![My Programming Languages](https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,typescript,kotlin,sass)](https://github.com/ArchitJ6)
+[![My Programming Languages](https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,typescript,kotlin,sass,graphql,rust)](https://github.com/ArchitJ6)
 
 ### Development Frameworks and Libraries
-[![My Development](https://skillicons.dev/icons?i=git,androidstudio,gradle,nextjs,react,redux,mui,nodejs,bootstrap,tailwindcss,flask,django,jquery)](https://github.com/ArchitJ6)
+[![My Development](https://skillicons.dev/icons?i=git,github,gradle,nextjs,react,redux,mui,nodejs,express,bootstrap,tailwindcss,flask,django,jquery,appwrite,linux)](https://github.com/ArchitJ6)
 
 ### Databases and Cloud Platforms 🛠 
-[![My Databases and Cloud](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,firebase,vercel,github,netlify,googlecloud,heroku,codepen,replit)](https://github.com/ArchitJ6)
+[![My Databases and Cloud](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,firebase,supabase,vercel,github,netlify,googlecloud,heroku,codepen,replit,aws)](https://github.com/ArchitJ6)
 
 ### IDEs and Tools
 [![My IDEs and Tools](https://skillicons.dev/icons?i=androidstudio,idea,vscode,figma,postman)](https://github.com/ArchitJ6)
