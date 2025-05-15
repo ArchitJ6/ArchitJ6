@@ -21,7 +21,7 @@ Let's shape the future together, one commit at a time! 🚀
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/archit.j6)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/architjain6)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Archit_Jain_6)
+[![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?logo=x&logoColor=white)](https://twitter.com/Archit_Jain_6)
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram&logoColor=white)](http://t.me/archit_j)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://github.com/ArchitJ6)
 
