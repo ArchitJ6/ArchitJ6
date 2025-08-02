@@ -52,7 +52,7 @@ Let's shape the future together, one commit at a time! 🚀
 [![AI Tools](https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,opencv,selenium,jupyter,pandas,numpy,matplotlib,seaborn,scikitlearn,huggingface,mlflow,streamlit,langchain,groq,ollama,mistral,claude,gemini,kaggle)](https://github.com/ArchitJ6)
 
 ### IDEs and Tools 🛠
-[![My IDEs and Tools](https://skillicons.dev/icons?i=androidstudio,idea,vscode,figma,postman)](https://github.com/ArchitJ6)
+[![My IDEs and Tools](https://skillicons.dev/icons?i=androidstudio,idea,vscode,figma,postman,googlecolab)](https://github.com/ArchitJ6)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=architj6&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&border_radius=10)<br/>
