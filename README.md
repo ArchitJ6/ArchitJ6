@@ -42,13 +42,16 @@ Let's shape the future together, one commit at a time! 🚀
 ### Languages 🛠 
 [![My Programming Languages](https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,typescript,kotlin,sass,graphql,rust)](https://github.com/ArchitJ6)
 
-### Development Frameworks and Libraries
+### Development Frameworks and Libraries 🛠 
 [![My Development](https://skillicons.dev/icons?i=git,github,gradle,nextjs,react,redux,mui,nodejs,express,bootstrap,tailwindcss,flask,django,jquery,appwrite,linux)](https://github.com/ArchitJ6)
 
 ### Databases and Cloud Platforms 🛠 
 [![My Databases and Cloud](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,firebase,supabase,vercel,github,netlify,googlecloud,heroku,codepen,replit,aws)](https://github.com/ArchitJ6)
 
-### IDEs and Tools
+### Data Science, AI/ML & Generative AI 🛠 
+[![AI Tools](https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,opencv,selenium,jupyter,pandas,numpy,matplotlib,seaborn,scikitlearn,huggingface,mlflow,streamlit,langchain,groq,ollama,mistral,claude,gemini,kaggle)](https://github.com/ArchitJ6)
+
+### IDEs and Tools 🛠
 [![My IDEs and Tools](https://skillicons.dev/icons?i=androidstudio,idea,vscode,figma,postman)](https://github.com/ArchitJ6)
 
 ## 📊 GitHub Stats:
